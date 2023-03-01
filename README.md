@@ -11,4 +11,6 @@
 ![DevTools](https://img.shields.io/badge/DevTools-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-FFFFFF?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![CharlesProxy](https://img.shields.io/badge/CharlesProxy-FFFFFF?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
-Contacts
+
+#### Follow Me
+[![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/minazhetdinovam)
