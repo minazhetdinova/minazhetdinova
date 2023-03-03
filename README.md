@@ -13,8 +13,9 @@
 ![CharlesProxy](https://img.shields.io/badge/CharlesProxy-FFFFFF?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
 #### Testing Documentation
-[Checklists](https://drive.google.com/drive/folders/1lKSqlHmBnZmX3REy9kPpk90ntgp71cqN?usp=sharing)
-[Test-Cases](https://drive.google.com/drive/folders/1miBs3cYYiH5N64XeSoNm-eObj7uBgjxe?usp=sharing)
+-[Checklists](https://drive.google.com/drive/folders/1lKSqlHmBnZmX3REy9kPpk90ntgp71cqN?usp=sharing)
+-[Test-Cases](https://drive.google.com/drive/folders/1miBs3cYYiH5N64XeSoNm-eObj7uBgjxe?usp=sharing)
+-[Bug-Reports](https://drive.google.com/drive/folders/14gjTXEL4cITsZNpYaW2Z_JZvMmPWsBdE?usp=sharing)
 
 
 #### Follow Me
