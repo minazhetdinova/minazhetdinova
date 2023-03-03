@@ -3,7 +3,7 @@
 ## I'm a QA Engineer
 
 ### Tools
-![Postman](https://img.shields.io/badge/-Postman-FFFFFF?style=for-the-badge&logo=postman)
+![Postman](https://img.shields.io/badge/-Postman-23272D?style=for-the-badge&logo=postman)
 ![Jira](https://img.shields.io/badge/Jira-FFFFFF?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Github](https://img.shields.io/badge/Github-FFFFFF?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![Figma](https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=7d5fa6)
